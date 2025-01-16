@@ -20,4 +20,4 @@ Our findings demonstrate that the approach effectively generates coherent and hi
 We thank the *Robert Gerstmann Fonds* at Universidad Católica del Norte for providing access to the photographic archive used in this work.
 
 ### Citation
-TDB
+This work has been accepted to the 47th European Conference on Information Retrieval (ECIR 2025). If you use our methods in your work, please include a reference to our paper. The reference details will be available soon.
