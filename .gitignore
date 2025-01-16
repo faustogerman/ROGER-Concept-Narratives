@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+extraction-pipeline.pdf
+Extraction\ Pipeline.drawio
+
+.DS_Store
